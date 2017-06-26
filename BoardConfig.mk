@@ -18,7 +18,7 @@ TARGET_KERNEL_SOURCE := kernel/samsung/universal7870
 TARGET_KERNEL_CONFIG := exynos7870-j7xelte_defconfig
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := j7xelte,j7xeltexx
+TARGET_OTA_ASSERT_DEVICE := j7xelte,j7xeltexx,j7xelteub,j7xeltektt,j7xeltedx
 
 # Inherit common board flags
 include device/samsung/j7xelte-common/BoardConfigCommon.mk
